@@ -1,3 +1,5 @@
+<img src=".github/assets/banner.png">
+
 # FolkFit
 
 _where healthy minds connect_
