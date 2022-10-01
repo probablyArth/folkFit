@@ -1,4 +1,4 @@
-<img src=".github/assets/banner.png">
+<kbd><img src=".github/assets/banner.png" ></kbd>
 
 # FolkFit
 
